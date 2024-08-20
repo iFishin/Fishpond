@@ -1,4 +1,4 @@
 # Fishpond
 **A theme for typecho, named fishpond.**
 
-![](.\img\111.png)
+![Fishpond鱼塘](./img/111.png)
