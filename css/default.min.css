@@ -1,0 +1,101 @@
+/*!
+  Theme: Default
+  Description: Original highlight.js style
+  Author: (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
+  Maintainer: @highlightjs/core-team
+  Website: https://highlightjs.org/
+  License: see project LICENSE
+  Touched: 2021
+*/pre code.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 1em;
+  background: #282c34; /* 代码块背景色 */
+}
+
+code.hljs {
+  padding: 3px 5px;
+}
+
+.hljs {
+  color: #abb2bf; /* 默认文本颜色 */
+}
+
+.hljs-comment {
+  color: #5c6370; /* 注释颜色 */
+}
+
+.hljs-punctuation,
+.hljs-tag {
+  color: #abb2bf; /* 标点和标签颜色 */
+}
+
+.hljs-tag .hljs-attr,
+.hljs-tag .hljs-name {
+  color: #e06c75; /* 标签属性和名称颜色 */
+}
+
+.hljs-attribute,
+.hljs-doctag,
+.hljs-keyword,
+.hljs-meta .hljs-keyword,
+.hljs-name,
+.hljs-selector-tag {
+  color: #c678dd; /* 关键字和名称颜色 */
+  font-weight: 700;
+}
+
+.hljs-deletion,
+.hljs-number,
+.hljs-quote,
+.hljs-selector-class,
+.hljs-selector-id,
+.hljs-string,
+.hljs-template-tag,
+.hljs-type {
+  color: #d19a66; /* 数字、字符串、引号等颜色 */
+}
+
+.hljs-section,
+.hljs-title {
+  color: #61afef; /* 部分和标题颜色 */
+  font-weight: 700;
+}
+
+.hljs-link,
+.hljs-operator,
+.hljs-regexp,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-symbol,
+.hljs-template-variable,
+.hljs-variable {
+  color: #98c379; /* 链接、运算符、变量等颜色 */
+}
+
+.hljs-literal {
+  color: #d19a66; /* 字面量颜色 */
+}
+
+.hljs-addition,
+.hljs-built_in,
+.hljs-bullet,
+.hljs-code {
+  color: #56b6c2; /* 添加、内置、符号等颜色 */
+}
+
+.hljs-meta {
+  color: #61afef; /* 元数据颜色 */
+}
+
+.hljs-meta .hljs-string {
+  color: #98c379; /* 元数据中的字符串颜色 */
+}
+
+.hljs-emphasis {
+  font-style: italic; /* 强调文本样式 */
+}
+
+.hljs-strong {
+  font-weight: 700; /* 强调文本样式 */
+}
