@@ -279,7 +279,7 @@ div#btn-section .icon-clicked {
   background: transparent;
   color: #000;
 
-  font-size: 1em;
+  font-size: 1.5em;
   box-sizing: border-box;
   z-index: 1;
 }
@@ -398,7 +398,7 @@ container for fish box
 */
 .container-for-fish {
   width: 100%;
-  height: 200px;
+  height: 210px;
   position: relative;
   overflow: hidden;
   background-color: var(--primary-2);
@@ -618,7 +618,7 @@ div#textbox {
   background-color: #282c34;
   color: #f5f5f5;
   border: none;
-  font-size: 0.9em;
+  font-size: 1em;
   line-height: 1.5;
   padding: 1.5em;
   border-radius: 5px;
@@ -638,7 +638,7 @@ div#textbox {
   width: 2em;
   padding-right: 1em;
   color: #999;
-  text-align: right;
+  text-align: cneter;
   user-select: none;
   pointer-events: none;
 }
