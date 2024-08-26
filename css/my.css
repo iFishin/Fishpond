@@ -63,7 +63,7 @@ header #search-icon {
   right: 20px;
   top: 22px;
   color: var(--primary-2);
-  font-size: 20px;
+  font-size: 1.5rem;
   cursor: pointer;
 
 }
@@ -98,7 +98,7 @@ div#body {
 
 .category-count {
   margin-left: 0.3rem;
-  font-size: 0.8rem;
+  font-size: 0.8em;
   color: #777;
 }
 
@@ -279,7 +279,7 @@ div#btn-section .icon-clicked {
   background: transparent;
   color: #000;
 
-  font-size: 18px;
+  font-size: 1em;
   box-sizing: border-box;
   z-index: 1;
 }
@@ -382,7 +382,7 @@ container for cat box
 */
 .container-for-cat {
   width: 100%;
-  height: 210px;
+  height: 220px;
   position: relative;
   overflow: hidden;
   bottom: -35px;
