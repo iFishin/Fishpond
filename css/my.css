@@ -63,7 +63,7 @@ header #search-icon {
   right: 20px;
   top: 22px;
   color: var(--primary-2);
-  font-size: 1.5rem;
+  font-size: 1.5em;
   cursor: pointer;
 
 }
@@ -98,7 +98,7 @@ div#body {
 
 .category-count {
   margin-left: 0.3rem;
-  font-size: 0.8em;
+  font-size: 1em;
   color: #777;
 }
 
@@ -164,7 +164,7 @@ div#body {
 
 .time {
   margin-top: 10px;
-  font-size: 0.8em;
+  font-size: 1em;
   color: #666;
 }
 
@@ -183,7 +183,7 @@ div#body {
 }
 
 .time-wrapper {
-  font-size: 0.8em;
+  font-size: 1em;
   color: #666;
 }
 
@@ -278,8 +278,7 @@ div#btn-section .icon-clicked {
   outline: 0;
   background: transparent;
   color: #000;
-
-  font-size: 1.5em;
+  font-size: 1.5rem;
   box-sizing: border-box;
   z-index: 1;
 }
@@ -638,7 +637,7 @@ div#textbox {
   width: 2em;
   padding-right: 1em;
   color: #999;
-  text-align: cneter;
+  text-align: left;
   user-select: none;
   pointer-events: none;
 }
